@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Arrival of Tears",
+  "base_artist": "彩音",
+  "createdAt": "2025-12-11T05:27:15.142979Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arrival of Tears",
+      "artist": "彩音",
+      "has_synced": true,
+      "path": "select/01_Arrival_of_Tears_彩音.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "arrival of tears",
+      "artist": "ayane",
+      "has_synced": true,
+      "path": "select/02_arrival_of_tears_ayane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "arrival of tears",
+      "artist": "ayane",
+      "has_synced": true,
+      "path": "select/03_arrival_of_tears_ayane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Arrival of Tears (Off Vocal)",
+      "artist": "Ayane",
+      "has_synced": true,
+      "path": "select/04_Arrival_of_Tears_(Off_Vocal)_Ayane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Arrival of Tears",
+      "artist": "彩音",
+      "has_synced": true,
+      "path": "select/05_Arrival_of_Tears_彩音.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Arrival of Tears",
+      "artist": "彩音",
+      "has_synced": true,
+      "path": "select/06_Arrival_of_Tears_彩音.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Arrival of Tears (Off Vocal)",
+      "artist": "彩音",
+      "has_synced": true,
+      "path": "select/07_Arrival_of_Tears_(Off_Vocal)_彩音.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Arrival of Tears",
+      "artist": "彩音",
+      "has_synced": false,
+      "path": "select/pl_01_Arrival_of_Tears_彩音.txt"
+    }
+  ]
+}
