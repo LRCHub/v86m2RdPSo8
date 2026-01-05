@@ -1,72 +1,96 @@
 {
   "version": 1,
-  "base_track": "Arrival of Tears",
-  "base_artist": "彩音",
-  "createdAt": "2025-12-11T05:27:15.142979Z",
+  "base_track": "甲賀忍法帖",
+  "base_artist": "陰陽座",
+  "createdAt": "2026-01-05T15:51:25.117882Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Arrival of Tears",
-      "artist": "彩音",
-      "has_synced": true,
-      "path": "select/01_Arrival_of_Tears_彩音.lrc"
+      "title": "甲賀忍法帖",
+      "artist": "KANA",
+      "has_synced": false,
+      "path": "select/01_甲賀忍法帖_KANA.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "arrival of tears",
-      "artist": "ayane",
+      "title": "甲賀忍法帖",
+      "artist": "陰陽座",
       "has_synced": true,
-      "path": "select/02_arrival_of_tears_ayane.lrc"
+      "path": "select/02_甲賀忍法帖_陰陽座.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "arrival of tears",
-      "artist": "ayane",
-      "has_synced": true,
-      "path": "select/03_arrival_of_tears_ayane.lrc"
+      "title": "甲賀忍法帖",
+      "artist": "Onmyo-za",
+      "has_synced": false,
+      "path": "select/03_甲賀忍法帖_Onmyo-za.txt"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Arrival of Tears (Off Vocal)",
-      "artist": "Ayane",
-      "has_synced": true,
-      "path": "select/04_Arrival_of_Tears_(Off_Vocal)_Ayane.lrc"
+      "title": "甲賀忍法帖",
+      "artist": "Machico",
+      "has_synced": false,
+      "path": "select/04_甲賀忍法帖_Machico.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Arrival of Tears",
-      "artist": "彩音",
-      "has_synced": true,
-      "path": "select/05_Arrival_of_Tears_彩音.lrc"
+      "title": "甲賀忍法帖",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/05_甲賀忍法帖_Roselia.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Arrival of Tears",
-      "artist": "彩音",
-      "has_synced": true,
-      "path": "select/06_Arrival_of_Tears_彩音.lrc"
+      "title": "甲賀忍法帖",
+      "artist": "YURiKA",
+      "has_synced": false,
+      "path": "select/06_甲賀忍法帖_YURiKA.txt"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Arrival of Tears (Off Vocal)",
-      "artist": "彩音",
+      "title": "甲賀忍法帖 / Roselia",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/07_甲賀忍法帖___Roselia_Roselia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "甲賀忍法帖 - KOUGA NINPOUCHOU",
+      "artist": "Onmyo-za",
       "has_synced": true,
-      "path": "select/07_Arrival_of_Tears_(Off_Vocal)_彩音.lrc"
+      "path": "select/08_甲賀忍法帖_-_KOUGA_NINPOUCHOU_Onmyo-za.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "甲賀忍法帖",
+      "artist": "ONMYO-ZA",
+      "has_synced": true,
+      "path": "select/09_甲賀忍法帖_ONMYO-ZA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "甲賀忍法帖",
+      "artist": "陰陽座",
+      "has_synced": true,
+      "path": "select/10_甲賀忍法帖_陰陽座.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Arrival of Tears",
-      "artist": "彩音",
+      "title": "甲賀忍法帖",
+      "artist": "陰陽座",
       "has_synced": false,
-      "path": "select/pl_01_Arrival_of_Tears_彩音.txt"
+      "path": "select/pl_01_甲賀忍法帖_陰陽座.txt"
     }
   ]
 }
